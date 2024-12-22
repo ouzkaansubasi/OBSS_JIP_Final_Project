@@ -2,7 +2,7 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/marketplace?useSSL=false&serverTimezone=UTC
     username: root
-    password: 009051@Ok
+    password: pass
     driver-class-name: com.mysql.cj.jdbc.Driver
   jpa:
     hibernate:
